@@ -1,0 +1,25 @@
+topic,keywords,type
+Abortion,"[ 'supreme', 'court', 'roe', 'abortion', 'women', 'wade', 'pregnant', 'ban', 'pregnancy', 'ivf', 'woman', 'care', 'doctors','trimester','reproductive','birth','women's', 'health', 'pro-life']",
+Afghanistan,"['taliban', 'afghanistan', 'talibans', 'afghan']",OR
+Antisemitism,"['students', 'jewish', 'israel', 'jews', 'university', 'antisemitism', 'protesters', 'antisemitic']",
+Cyclone Helene,"['hurricane', 'relief', 'helene', 'florida', 'cyclone','carolina','fema']",2
+Economic Issues,"['tax', 'taxes', 'pay', 'medicare', 'money', 'debt','jobs', 'economy', 'inflation', 'wages', 'unemployment', 'economic', 'bidenomics', 'growth', 'record','oil', 'gas', 'prices', 'opec', 'barrels', 'saudi', 'market', 'arabia', 'price', 'inflation', 'middle class', 'corporations', 'dollars', 'savings', 'tax policy', 'tax breaks']",
+Election 2024,"['win', 'vote', '2024', 'voters', 'votes', debate', 'debates', 'candidate', 'ballot', 'election', 'elections', 'seats', 'states', 'democracy']",
+Election Fraud,"['election', 'fraud', 'rigged', '2016']",
+Gun,"['rifle', 'shooter', 'gunman', 'ak47', 'shots', 'gun', 'guns', 'weapons', 'assault', 'ban', 'school', 'gun violence', 'gun control', 'gun laws', 'shooting']",
+Hunter Biden,"['hunter', 'biden']",
+Immigration,"['border', 'security', 'secure', 'immigration', 'asylum', 'migrants', 'deport', 'noncitizen', 'deportable', 'homeland',  'immigrants', 'illegal', 'sanctuary','alien', 'sedition', 'cartels', 'mexico', 'haitian']",
+Impeachment,"['impeached', 'impeachment', 'impeachable']",OR
+Israel War,"['israel', 'war', 'gaza', 'rockets', 'hamas', 'palestine', 'gaza', 'hostages', 'palestinian', 'netanyahu', 'genocide', 'rafa', 'israeli', 'iran']",
+January 6 Riots,"[ 'insurrection', 'traitor', '6th', 'engage', 'attack', 'january', 'jan','capitol','riots','violence', 'january 6th']",
+Labor,"['wages', 'labor', 'overtime', 'union', 'unions', 'workers', 'work', 'working', 'pensions', 'working class', 'prounion','strike', 'labor market']",
+MAGA,"[ 'maga', 'make america great', 'make america great again', 'america will be great again']",OR
+Nazi,['nazi'],
+Obama,"['obama', 'obamacare']",OR
+Project 2025,"['2025 project', 'project 2025']",OR
+Racism,"['black', 'black men', 'magger', 'blackmaggo', 'color', 'blackmagg', 'slaves', 'indigenous', 'racism', 'race','latinos','latino', 'racist', 'blm', 'black lives matter', 'blacks', 'black women', 'African-American', 'black woman', 'black man']",
+Religion,"['easter', 'christians', 'christian', 'bible', 'god', 'jesus', 'christian', 'lord', 'christ', 'pray', 'favorite', 'bless',  'lord','antichrist', 'evil', 'gods', 'hallelujah', 'rights', 'bibles','church']",
+Socialism,"['socialism', 'socialist']",OR
+Trump Trial,"['convicted', 'criminal', 'liability', 'felons', 'felony charges' 'guilty', 'trial', 'court', 'jury', 'judge', 'hush', 'immunity', 'bond', 'conviction', 'suing', 'sued','sue']",AND 'trump' NOT 'assassination'
+Trump’s Assassination Attempt,"['attempt', 'assassination', 'flyer', 'charges', 'assassinate', 'trump', 'assassination attempt']",
+Ukraine War,"['nato', 'ukraine', 'russia', 'allies', 'putin', 'war', 'world war', 'vladimir', 'zelensky','russian','pentagon']",
