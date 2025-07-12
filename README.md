@@ -61,8 +61,8 @@ However, we have released a dataset containing **TikTok post IDs** to enable rep
    ```
 
 2. Install dependencies:
-   - Python: See `requirements.txt` (for `whisper`, `moviepy`, `deepface`, etc.)
-   - R: Scripts require `lme4`, `performance`, `MuMIn`, `bestNormalize`, etc.
+   - Python: See `requirements.txt` (`whisper`, `deepface`, etc.)
+   - R: Scripts require `lme4`, `MuMIn`, `bestNormalize`, etc.
 
 3. Run analyses:
    - Use the Python scripts for feature extraction and topic assignment.
