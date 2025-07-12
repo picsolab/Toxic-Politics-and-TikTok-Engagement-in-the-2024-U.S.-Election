@@ -56,8 +56,8 @@ However, we have released a dataset containing **TikTok post IDs** to enable rep
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/tiktok-election-toxicity.git
-   cd tiktok-election-toxicity
+   gh repo clone picsolab/Toxic-Politics-and-TikTok-Engagement-in-the-2024-U.S.-Election
+   cd Toxic-Politics-and-TikTok-Engagement-in-the-2024-U.S.-Election
    ```
 
 2. Install dependencies:
