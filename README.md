@@ -1,5 +1,5 @@
 
-# Political Engagement and Toxicity on TikTok: Code & Replication Materials
+# Toxic Politics and TikTok Engagement in the 2024 U.S. Election: Code & Replication Materials
 
 This repository contains all analysis and feature extraction code used in the study **“Toxic Politics and TikTok Engagement in the 2024 U.S. Election”**, published in the *Harvard Kennedy School Misinformation Review*. The project investigates how political partisanship, toxicity, and topical content influence user engagement with TikTok videos during the 2024 U.S. presidential election cycle.
 
