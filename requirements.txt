@@ -1,0 +1,16 @@
+whisper
+moviepy
+pydub
+librosa
+torch
+transformers
+opencv-python-headless
+deepface
+retinaface
+mtcnn
+pandas
+numpy
+scikit-learn
+scipy
+statsmodels
+tqdm
