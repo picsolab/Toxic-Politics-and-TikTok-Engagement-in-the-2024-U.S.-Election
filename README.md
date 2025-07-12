@@ -23,7 +23,7 @@ The repository includes scripts for data processing, statistical modeling, and t
   Assigns topics to TikTok transcripts using a keyword-matching strategy based on the manually curated keyword list.
 
 - `topic-keywords.csv`  
-  Keyword definitions for 22 political topics, based on iterative validation and refinement (Table C1 in paper).
+  Keyword definitions for 22 political topics, based on iterative validation and refinement.
 
 ### 📊 Statistical Analyses
 
