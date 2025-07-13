@@ -20,7 +20,7 @@ The repository includes scripts for data processing, statistical modeling, and t
 ### 🗂 Topic Detection
 
 - `topic_assignment.py`  
-  Assigns topics to TikTok transcripts using a keyword-matching strategy based on BertTopic and manually validated keyword list.
+  Assigns topics to TikTok transcripts using a keyword-matching strategy based on BERTopic and manually validated keyword list.
 
 - `topic-keywords.csv`  
   Keyword definitions for 22 political topics, based on iterative validation and refinement.
